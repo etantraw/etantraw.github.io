@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etantraw.github.io/sitemap.html.gz
+Sitemap: https://etantraw.github.io/app/sitemap.html.gz
+Sitemap: https://etantraw.github.io/assets/sitemap.html.gz
+Sitemap: https://etantraw.github.io/css/sitemap.html.gz
+Sitemap: https://etantraw.github.io/includes/sitemap.html.gz
+Sitemap: https://etantraw.github.io/item/sitemap.html.gz
+Sitemap: https://etantraw.github.io/src/sitemap.html.gz
